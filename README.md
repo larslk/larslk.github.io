@@ -1,8 +1,7 @@
 # <a href="https://larslk.github.io/" target="_blank">My Website</a>
 <p align="justify">This website displays my Projects, and more!</p>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Offline-dark%20red.svg)](https://larslk.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://larslk.github.io/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Offline-red)](https://larslk.github.io/)
 [![Author](https://img.shields.io/badge/Author-larslk-purple.svg)](https://larslk.github.io)
 [![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Oct%922025-yellow.svg)](https://larslk.github.io)
 
