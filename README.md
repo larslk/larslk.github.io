@@ -3,7 +3,7 @@
 
 [![Website Status](https://img.shields.io/badge/Website%20Status-Offline-red)](https://larslk.github.io/)
 [![Author](https://img.shields.io/badge/Author-larslk-purple.svg)](https://larslk.github.io)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%21.0.0-yellow.svg)](https://larslk.github.io)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-1.0.0-yellow.svg)](https://larslk.github.io)
 
 ## Credits
 
