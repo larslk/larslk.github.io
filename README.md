@@ -10,5 +10,5 @@
 This site is based on [Vinod Jangid’s portfolio template](https://github.com/vinodjangid07/vinodjangid07.github.io),
 licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-Modifications © 2025 [Your Name]
+Modifications © 2025 LarsLK
 
