@@ -2027,7 +2027,7 @@ footer {
  color: var(--glow-color);
  font-size: 15px;
  font-weight: bold;
- background-color: var(--btn-color);
+ /*background-color: var(--btn-color);*/
  border-radius: 1em;
  outline: none;
  box-shadow: 0 0 1em .25em var(--glow-color),
